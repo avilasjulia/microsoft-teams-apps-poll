@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "tag": "poll-teams-app",
-    "id": "<packageId>",
+    "id": "org.avila.pollapp",
     "name": "Poll",
     "description": "Ask a question and get people's opinion",
     "showLoadingIndicator": true,
     "developer": {
-        "name": "<name>",
-        "websiteUrl": "<websiteUrl>",
-        "privacyUrl": "<privacyUrl>",
-        "termsOfUseUrl": "<termsOfUseUrl>"
+        "name": "Julia.Sheehy.for.Avila",
+        "websiteUrl": "https://avilainstitute.org/",
+        "privacyUrl": "https://avilainstitute.org/privacy-policy/",
+        "termsOfUseUrl": "https://avilainstitute.org/terms-of-service/"
     },
     "icon": "images/appIcon.png",
     "actionModel": "actionModel.json",
